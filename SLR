@@ -90,6 +90,20 @@ Docker images
 Docker push <username>/dickshant:pussy
 
 
+mkdir devops
+cd devops
+Nano app.py
+Print(“Welcome Docker file”)
+nano dockerfile (//Below 3 lines under dockerfile)
+FROM python
+COPY . /src
+CMD ["python", "/src/app.py"]
+docker build . -t python_app
+docker run python_app
+
+
+
+
 
 
 
