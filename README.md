@@ -27,7 +27,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 
-
 Ansible installation:
 $ sudo apt update 
 $ sudo apt install software-properties-common 
@@ -132,6 +131,12 @@ CMD ["python", "/src/app.py"]
 sudo bash
 docker build . -t python_app
 docker run python_app
+
+
+
+
+
+
 
 
 
