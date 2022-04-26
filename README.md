@@ -11,21 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Sign Language Recognition
-## Natural Language Processing
-### Sentiment analysis
+## Natural Language 
 
-- Bulleted
-- List
+Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
 
-1. Numbered
-2. List
+## Sentiment analysis
+
+Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
+
 
 
 ### Jekyll Themes
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
-
-Support or Contact
-Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
 
 
 Ansible installation:
